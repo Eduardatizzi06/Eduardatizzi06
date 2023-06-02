@@ -6,6 +6,7 @@ Meu nome é Eduarda Tizziani
 - Estou me desenvolvendo na JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 - gosto muito de Química, Matemática, Fisica
+- gosto de louvar a Deus 
 
 ### Você pode entrar em contato comigo 📪
 
